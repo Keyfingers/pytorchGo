@@ -16,6 +16,8 @@ yarn-error.log*
 *.sln
 *.sw?
 log/
+neuralNetworks/data/
+*.ipynb_checkpoints/
 
 # 配置
 config.yaml
